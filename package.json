@@ -1,0 +1,19 @@
+{
+  "name": "OpenProxy",
+  "version": "0.0.1",
+  "description": "Open Proxy for Developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/easylogic/openproxy"
+  },
+  "keywords": [
+    "openproxy",
+    "reverse"
+  ],
+  "author": "easylogic",
+  "license": "MIT"
+}
