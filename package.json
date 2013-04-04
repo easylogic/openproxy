@@ -16,7 +16,8 @@
   ],
   "dependencies" : {
   	"node-static" : ">=0.6.7",
-  	"mime" : ">=1.2.9"
+  	"mime" : ">=1.2.9",
+    "openproxy-router" : "*"
   },  
   "author": "easylogic",
   "license": "MIT"
