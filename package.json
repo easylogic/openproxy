@@ -1,6 +1,6 @@
 {
   "name": "openproxy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Open Proxy for Developers",
   "main": "index.js",
   "scripts": {
@@ -16,8 +16,7 @@
   ],
   "dependencies" : {
   	"node-static" : ">=0.6.7",
-  	"mime" : ">=1.2.9",
-    "openproxy-router" : "*"
+  	"mime" : ">=1.2.9"
   },  
   "author": "easylogic",
   "license": "MIT"

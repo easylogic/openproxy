@@ -35,9 +35,7 @@ Open Proxy for Developers
 		
 			// if hostname is 'www.google.com', change to 'www.facebook.com'
 			if (session.hostnameIs('www.google.com')) {
-				session.changeHost({
-					target : 'www.facebook.com'
-				})
+				session.change({ source : "www.google.com", target : 'www.facebook.com' })
 			}
 		}
 	})
