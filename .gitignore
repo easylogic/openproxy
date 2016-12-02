@@ -1,1 +1,4 @@
 /.project
+*.iml
+npm-debug.log
+.idea
