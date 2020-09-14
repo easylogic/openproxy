@@ -4,7 +4,7 @@
   "description": "Open Proxy for Developers",
   "main": "index.js",
   "scripts": {
-    "start" : "node ./lib/simple-proxy.js",
+    "start": "node ./lib/simple-proxy.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,10 +15,10 @@
     "openproxy",
     "reverse"
   ],
-  "dependencies" : {
-  	"node-static" : ">=0.6.7",
-  	"mime" : ">=1.2.9"
-  },  
+  "dependencies": {
+    "node-static": ">=0.6.7",
+    "mime": ">=1.2.9"
+  },
   "author": "easylogic",
   "license": "MIT"
 }
